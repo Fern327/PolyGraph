@@ -41,7 +41,7 @@ Note that the data is processed as we stated in our paper. The origin data can b
 
 ### Checkpoints
 
-We provide the checkpoints for [Structure3D](https://drive.google.com/file/d/1Oua4RCaxOIm7-mWXoUJZHTNE3oSPrDTw/view?usp=sharing) and [Lianjia-s](), please download and extract.
+We provide the checkpoints for [Structure3D](https://pan.baidu.com/s/1TlKSESi-glsayvcMQEp6YQ?pwd=iqlm) and [Lianjia-s](https://pan.baidu.com/s/1xOEyDG_7_ZnwR_WWBylqPg?pwd=u6oj), please download and extract.
 
 ## Inference, evaluation and visualization
 
