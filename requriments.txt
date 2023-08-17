@@ -1,0 +1,8 @@
+torch
+opencv-python
+scipy
+tqdm
+matplotlib
+scikit-image
+shapely
+einops
