@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### Data
 
-Please download the data for the two tasks from the [link](https://drive.google.com/file/d/1BL58xl2U8H96YBkkB7WjDmtznuEj6PbG/view?usp=sharing) here.  Extract the data into the ```./datasets``` directory.
+Please download the processed datasets [Structure3D](https://pan.baidu.com/s/1jEImIAUsH8K5QgKBVpCoPQ?pwd=mnlq) and [Lianjia-s](https://pan.baidu.com/s/1hva7a2Bl943NnaDIynj4Mg?pwd=s8kx).  Extract the data into the ```./datasets``` directory.
 
 The file structure should be like the following:
 ```
@@ -37,7 +37,7 @@ datasets
     ├── test        
     │── valid       
 ```
-Note that the data is processed as we stated in our paper. The origin data can be download from [Lianjia-s]() and [Structure3D]().
+Note that the data is processed as we stated in our paper. The origin data can be download from [ori-Lianjia-s](https://www.ke.com) at [link1](http://realsee.com/open/en) or [link2](http://realsee.com/open) and [ori-Structure3D](https://github.com/woodfrog/heat/tree/master/s3d_preprocess).
 
 ### Checkpoints
 
